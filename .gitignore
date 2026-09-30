@@ -1,0 +1,19 @@
+# WordPress local/runtime files
+.DS_Store
+Thumbs.db
+*.log
+*.zip
+
+# Local development
+.env
+.env.*
+node_modules/
+vendor/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+*.swp
+*.swo
